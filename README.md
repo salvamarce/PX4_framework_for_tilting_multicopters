@@ -6,7 +6,7 @@ __abstract__ This repo presents a general framework for multicopters equipped wi
 ## Article 
 The description of the firmware architecture, the integration with the standard PX4 control stack, as well as its integration with a PixHawk autopilot is described in the following article:
 
-``Salvatore Marcellini, Jonathan Cacace, Vincenzo Lippie, "A PX4 Integrated Framework for Modeling and Controlling Multicopters with Tiltable Rotors", submitted to the 2023 International Conference on Unmanned Aircraft System (ICUAS ’23)  June 6 – 9, 2023  Warsaw, Poland``
+``Salvatore Marcellini, Jonathan Cacace, Vincenzo Lippiello, "A PX4 Integrated Framework for Modeling and Controlling Multicopters with Tiltable Rotors", submitted to the 2023 International Conference on Unmanned Aircraft System (ICUAS ’23)  June 6 – 9, 2023  Warsaw, Poland``
 
 This work is currently under review
 
